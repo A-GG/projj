@@ -2,5 +2,8 @@
   "version": "v1",
   "/Users/popomore/projj/github.com/popomore/projj/test/fixtures/multiple-directory/a/github.com/popomore/projj": {
     "repo": "https://github.com/popomore/projj.git"
+  },
+  "/Users/sh0105/Code/github.com/A-GG/projj/test/fixtures/multiple-directory/a/github.com/popomore/projj": {
+    "repo": "https://github.com/popomore/projj.git"
   }
 }
